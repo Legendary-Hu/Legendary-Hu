@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Legendary-Hu
+- 👋 Hi, I’m @huxiang
 - 👀 I’m interested in basketball,music,photograph...
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Java
 - 📫 Contact me with 891972406@qq.com
 
 
